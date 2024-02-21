@@ -23,7 +23,7 @@ Note: The complete IGBT data set has been released.
 # Paper of Code and Citation
 (1) To better understand our code, please read our paper.
 
-Paper: Attribute fusion transfer for zero-shot fault diagnosis
+Paper: Degradation path approximation for remaining useful life estimation
 
 The website of the paper：https://www.sciencedirect.com/science/article/pii/S1474034624000703?via%3Dihub
 
