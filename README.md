@@ -1,6 +1,6 @@
 # ADVEI-Paper-2024.3-Degradation-path-approximation-for-remaining-useful-life-estimation
 
-We propose a highly easy-to-understand and brand-new solution way for the data-driven RUL prediction, Degradation Path Approximation (DPA). DPA is expert knowledge-free and can perform excellently in less degradation data, even a single historical degradation path.  We theoretically analyzed and proved the feasibility of DPA. A series of comparative and ablation experiments on Li-ion prismatic cells, milling cutters, 18650 Li-ion batteries, and IGBT are conducted to demonstrate the superiority of DPA and the importance of DPA variables, respectively. 
+For remaining useful life prediction tasks, we propose a highly easy-to-understand and brand-new solution way for the data-driven RUL prediction, Degradation Path Approximation (DPA). DPA is expert knowledge-free and can perform excellently in less degradation data, even a single historical degradation path.  We theoretically analyzed and proved the feasibility of DPA. A series of comparative and ablation experiments on Li-ion prismatic cells, milling cutters, 18650 Li-ion batteries, and IGBT are conducted to demonstrate the superiority of DPA and the importance of DPA variables, respectively. 
 
 Paper: Degradation path approximation for remaining useful life estimation
 
