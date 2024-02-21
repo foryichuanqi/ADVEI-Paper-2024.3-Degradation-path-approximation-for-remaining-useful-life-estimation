@@ -1,1 +1,77 @@
 # ADVEI-Paper-2024.3-Degradation-path-approximation-for-remaining-useful-life-estimation
+
+Paper: Degradation path approximation for remaining useful life estimation
+
+The website of the paper：https://www.sciencedirect.com/science/article/pii/S1474034624000703?via%3Dihub
+
+
+
+
+# Easy to reproduce all details of our paper successfully
+The downloaded compressed package can reproduce our method. To make code easy to run successfully, we debug the files carefully. Generally speaking, if environments are satisfied, you can directly run all the xxx.py files inside after decompressing the compressed package without changing any code.
+Note: The complete IGBT data set has been released.
+
+(1) Download and rename xxx.zip to DPA.zip (Rename to avoid errors caused by long directories)
+
+(2) Unzip DPA.zip
+
+(3) Run any xxx.py directly
+
+
+# Paper of Code and Citation
+(1) To better understand our code, please read our paper.
+
+Paper: Attribute fusion transfer for zero-shot fault diagnosis
+
+The website of the paper：https://www.sciencedirect.com/science/article/pii/S1474034624000703?via%3Dihub
+
+(2) Please cite this paper and the original source of the dataset when using the code for academic purposes.
+
+GB/T 7714: 
+
+
+BibTex:
+
+@article{FAN2024102422,
+title = {Degradation path approximation for remaining useful life estimation},
+journal = {Advanced Engineering Informatics},
+volume = {60},
+pages = {102422},
+year = {2024},
+issn = {1474-0346},
+doi = {https://doi.org/10.1016/j.aei.2024.102422}
+}
+
+
+# Relationship between Code and Paper
+
+ (1) Section 2.2  Degradation path approximation
+ 
+ :code\comparison experiments\xxx\DPA_our_method\DPA
+
+ (2) TABLE 4 TaFCN
+ 
+ :code\comparison experiments\xxx\tafcn2022\TaFCN
+
+
+# Environment and Acknowledgement:
+
+(1) Environment:
+
+    
+scipy                     1.5.2
+    
+pandas                    1.0.5
+    
+numpy                     1.19.1
+
+
+(2) Acknowledgement: 
+Thanks for the following references sincerely.
+   
+[1] M. Pecht, Calce battery group, 2017. 
+[2]Prognostics and Health Management Society, Prognostics and health management society, PHM data challenge 2010, 2010.
+[3] B. Saha, K. Goebel, Battery Data Set, NASA Ames Prognostics Data Repository, NASA Ames Research Center, Moffett Field, 2007. 
+[4] Greg Sonnenfeld, Kai Goebel, Jose R. Celaya, An agile accelerated aging, characterization and scenario simulation system for gate controlled power transistors, in: 2008 IEEE AUTOTESTCON, IEEE, 2008, pp. 208–215. 
+  
+github：https://github.com/foryichuanqi/RESS-Paper-2022.09-Remaining-useful-life-prediction-by-TaFCN
