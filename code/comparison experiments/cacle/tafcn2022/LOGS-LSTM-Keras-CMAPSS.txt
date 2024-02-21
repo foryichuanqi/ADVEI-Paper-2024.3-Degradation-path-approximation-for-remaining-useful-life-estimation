@@ -1,0 +1,806 @@
+2023-03-22 19:18:03,735 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:18:03,736 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:18:03,825 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:18:03,826 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:19:58,460 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:19:58,461 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:19:58,553 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:19:58,553 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:20:00,213 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2023-03-22 19:20:00,235 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:3980: The name tf.nn.avg_pool is deprecated. Please use tf.nn.avg_pool2d instead.
+
+2023-03-22 19:20:00,241 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2023-03-22 19:20:00,258 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2023-03-22 19:20:00,312 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2023-03-22 19:20:00,313 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:181: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2023-03-22 19:20:00,314 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:186: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2023-03-22 19:20:02,670 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2023-03-22 19:20:02,671 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+2023-03-22 19:20:02,901 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2023-03-22 19:20:02,940 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:1834: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2023-03-22 19:20:02,990 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+2023-03-22 19:20:03,741 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2023-03-22 19:20:03,983 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\ops\math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2023-03-22 19:20:04,011 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:986: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+2023-03-22 19:20:04,216 - tensorflow - WARNING -From C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py:973: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2023-03-22 19:22:47,451 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:22:47,452 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:22:47,545 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:22:47,546 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:22:52,870 - matplotlib.font_manager - DEBUG -findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2023-03-22 19:22:52,871 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,871 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,872 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2023-03-22 19:22:52,873 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,874 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,874 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,875 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,875 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,876 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,876 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,876 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,877 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,877 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 0.33499999999999996
+2023-03-22 19:22:52,878 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,878 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,879 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,880 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2023-03-22 19:22:52,880 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,881 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-03-22 19:22:52,881 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,881 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,882 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,882 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,883 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,883 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,884 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,884 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,884 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,885 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 1.335
+2023-03-22 19:22:52,885 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,886 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,886 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,887 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,887 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,888 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,889 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,889 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,889 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+2023-03-22 19:22:52,890 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bell MT' (BELLB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,890 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Comic Sans MS' (comic.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,891 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'YouYuan' (SIMYOU.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,891 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Heavy' (FRAHV.TTF) normal normal heavy normal>) = 10.43
+2023-03-22 19:22:52,892 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Courier New' (courbd.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,892 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Console' (lucon.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,892 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Eras Light ITC' (ERASLGHT.TTF) normal normal light normal>) = 10.24
+2023-03-22 19:22:52,893 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Broadway' (BROADW.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,893 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'French Script MT' (FRSCRIPT.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,894 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Cambria' (cambriab.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,894 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Magneto' (MAGNETOB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,895 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Fraktur' (eufrak.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,895 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calibri' (calibril.ttf) normal normal light normal>) = 10.24
+2023-03-22 19:22:52,896 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Pristina' (PRISTINA.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,896 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bookshelf Symbol 7' (BSSYM7.TTF) normal normal book normal>) = 10.05
+2023-03-22 19:22:52,897 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DengXian' (Deng.ttf) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,897 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Papyrus' (PAPYRUS.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,898 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STFangsong' (STFANGSO.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,898 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Book Antiqua' (ANTQUAI.TTF) italic normal book normal>) = 11.05
+2023-03-22 19:22:52,898 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Colonna MT' (COLONNA.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,899 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Webdings' (webdings.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,899 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Centaur' (CENTAUR.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,900 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Corbel' (corbeli.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,900 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bookman Old Style' (BOOKOSI.TTF) italic normal book normal>) = 11.05
+2023-03-22 19:22:52,901 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Consolas' (consolai.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,901 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_BLAI.TTF) italic normal black normal>) = 11.525
+2023-03-22 19:22:52,901 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'MS Reference Sans Serif' (REFSAN.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,902 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Symbol' (eucsymbi.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,902 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bell MT' (BELLI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,903 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bookman Old Style' (BOOKOSBI.TTF) italic normal book normal>) = 11.05
+2023-03-22 19:22:52,903 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Handwriting' (LHANDW.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,904 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Trebuchet MS' (trebucbd.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,904 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Cooper Black' (COOPBL.TTF) normal normal black normal>) = 10.525
+2023-03-22 19:22:52,905 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Parchment' (PARCHM.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,905 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tw Cen MT' (TCMI____.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,906 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Yu Gothic' (YuGothL.ttc) normal normal light normal>) = 10.24
+2023-03-22 19:22:52,906 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Script MT Bold' (SCRIPTBL.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,907 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gadugi' (gadugi.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,907 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (segoeuib.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,907 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Sans' (LSANSD.TTF) normal normal roman normal>) = 10.145
+2023-03-22 19:22:52,908 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Californian FB' (CALIFI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,908 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Rage Italic' (RAGE.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,909 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Harlow Solid Italic' (HARLOWSI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,909 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Berlin Sans FB' (BRLNSR.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,910 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Copperplate Gothic Light' (COPRGTL.TTF) normal normal light normal>) = 10.24
+2023-03-22 19:22:52,910 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bell MT' (BELL.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,910 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calibri' (calibrib.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,911 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Wingdings 3' (WINGDNG3.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,911 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bahnschrift' (bahnschrift.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,912 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gill Sans MT Ext Condensed Bold' (GLSNECB.TTF) normal normal bold condensed>) = 10.535
+2023-03-22 19:22:52,912 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Demi Cond' (FRADMCN.TTF) normal normal demi condensed>) = 10.44
+2023-03-22 19:22:52,913 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid' (euclidbi.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,913 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Ebrima' (ebrimabd.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,914 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'icomoon' (iqiyi_logov5.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,914 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_CI.TTF) italic normal 400 condensed>) = 11.25
+2023-03-22 19:22:52,914 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Informal Roman' (INFROMAN.TTF) normal normal roman normal>) = 10.145
+2023-03-22 19:22:52,915 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Monotype Corsiva' (MTCORSVA.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,915 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gill Sans MT Condensed' (GILC____.TTF) normal normal 400 condensed>) = 10.25
+2023-03-22 19:22:52,916 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Book' (FRABK.TTF) normal normal book normal>) = 10.05
+2023-03-22 19:22:52,916 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft YaHei' (msyh.ttc) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,917 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Bright' (LBRITEDI.TTF) italic normal demibold normal>) = 11.24
+2023-03-22 19:22:52,917 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Garamond' (GARABD.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,918 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Consolas' (consolaz.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,918 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Sitka Small' (SitkaZ.ttc) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,919 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Footlight MT Light' (FTLTLT.TTF) normal normal light normal>) = 10.24
+2023-03-22 19:22:52,919 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STXihei' (STXIHEI.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,919 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Fax' (LFAXD.TTF) normal normal demibold normal>) = 10.24
+2023-03-22 19:22:52,920 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Candara' (Candarab.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,920 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Nirmala UI' (NirmalaB.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,921 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Century Gothic' (GOTHICB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,921 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'High Tower Text' (HTOWERT.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,922 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_I.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,922 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tempus Sans ITC' (TEMPSITC.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,922 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial Rounded MT Bold' (ARLRDBD.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,923 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Blackadder ITC' (ITCBLKAD.TTF) normal normal black normal>) = 10.525
+2023-03-22 19:22:52,923 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bernard MT Condensed' (BERNHC.TTF) normal normal 400 condensed>) = 10.25
+2023-03-22 19:22:52,924 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Times New Roman' (timesbi.ttf) italic normal roman normal>) = 11.145
+2023-03-22 19:22:52,924 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Sitka Small' (SitkaI.ttc) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,924 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Fraktur' (eufrakb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,925 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Extra' (euextrab.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,925 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Medium' (framdit.ttf) italic normal medium normal>) = 11.145
+2023-03-22 19:22:52,926 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Century Gothic' (GOTHIC.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,926 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Century Schoolbook' (SCHLBKB.TTF) normal normal book normal>) = 10.05
+2023-03-22 19:22:52,927 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Cambria' (cambriai.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,927 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Palatino Linotype' (palai.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,927 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Comic Sans MS' (comici.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,928 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Imprint MT Shadow' (IMPRISHA.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,928 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Niagara Engraved' (NIAGENG.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,929 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (segoeuisl.ttf) normal normal light normal>) = 10.24
+2023-03-22 19:22:52,930 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Century Gothic' (GOTHICBI.TTF) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,930 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Times New Roman' (timesbd.ttf) normal normal roman normal>) = 10.145
+2023-03-22 19:22:52,930 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Ebrima' (ebrima.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,931 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STXinwei' (STXINWEI.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,931 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Demi' (FRADMIT.TTF) italic normal demi normal>) = 11.24
+2023-03-22 19:22:52,932 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Goudy Old Style' (GOUDOSI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,932 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Extra' (euextra.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,933 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Yu Gothic' (YuGothB.ttc) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,933 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Verdana' (verdanab.ttf) normal normal bold normal>) = 3.9713636363636367
+2023-03-22 19:22:52,934 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tw Cen MT' (TCM_____.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,934 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'SimSun' (simsun.ttc) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,934 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Chiller' (CHILLER.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,935 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Jokerman' (JOKERMAN.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,935 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Sans Typewriter' (LTYPE.TTF) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,936 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Sitka Small' (SitkaB.ttc) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,936 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'MT Extra' (mtextra.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,937 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Verdana' (verdana.ttf) normal normal 400 normal>) = 3.6863636363636365
+2023-03-22 19:22:52,937 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'SimSun-ExtB' (simsunb.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,937 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft Uighur' (MSUIGHUR.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,938 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Calligraphy' (LCALLIG.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,939 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_PSTC.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,939 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Snap ITC' (SNAP____.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,939 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Verdana' (verdanaz.ttf) italic normal bold normal>) = 4.971363636363637
+2023-03-22 19:22:52,940 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Castellar' (CASTELAR.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,940 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Vivaldi' (VIVALDII.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,941 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Rockwell' (ROCK.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,941 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Eras Demi ITC' (ERASDEMI.TTF) normal normal demi normal>) = 10.24
+2023-03-22 19:22:52,942 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Ravie' (RAVIE.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,942 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'High Tower Text' (HTOWERTI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,942 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Perpetua' (PERI____.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,943 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Brush Script MT' (BRUSHSCI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,943 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft JhengHei' (msjhl.ttc) normal normal light normal>) = 10.24
+2023-03-22 19:22:52,944 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial' (ariblk.ttf) normal normal black normal>) = 6.888636363636364
+2023-03-22 19:22:52,944 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Century Schoolbook' (SCHLBKI.TTF) italic normal book normal>) = 11.05
+2023-03-22 19:22:52,945 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gadugi' (gadugib.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,945 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_R.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,945 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Rockwell Extra Bold' (ROCKEB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,946 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gill Sans MT' (GIL_____.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,946 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calibri' (calibrili.ttf) italic normal light normal>) = 11.24
+2023-03-22 19:22:52,947 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe Script' (segoesc.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,947 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Georgia' (georgiaz.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,948 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Palatino Linotype' (palabi.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,948 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bauhaus 93' (BAUHS93.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,949 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft Yi Baiti' (msyi.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,950 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Playbill' (PLAYBILL.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,950 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Consolas' (consolab.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,951 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DengXian' (Dengb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,951 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Perpetua' (PERBI___.TTF) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,951 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI Symbol' (seguisym.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,952 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Forte' (FORTE.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,952 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Onyx' (ONYX.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,953 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Cambria' (cambriaz.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,953 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STHupo' (STHUPO.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,953 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI Emoji' (seguiemj.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,954 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'MV Boli' (mvboli.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,954 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Goudy Old Style' (GOUDOS.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,955 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Book' (FRABKIT.TTF) italic normal book normal>) = 11.05
+2023-03-22 19:22:52,955 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Algerian' (ALGER.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,956 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Curlz MT' (CURLZ___.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,956 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Sylfaen' (sylfaen.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,956 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Agency FB' (AGENCYR.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,957 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (seguisbi.ttf) italic normal semibold normal>) = 11.24
+2023-03-22 19:22:52,957 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Constantia' (constanz.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,958 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Symbol Tiger' (Symbol Tiger.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,958 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gill Sans MT' (GILI____.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,958 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid' (euclid.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,959 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Sitka Small' (Sitka.ttc) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,959 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Baskerville Old Face' (BASKVILL.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,960 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'FZYaoTi' (FZYTK.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,960 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft New Tai Lue' (ntailu.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,961 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Stencil' (STENCIL.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,961 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gloucester MT Extra Condensed' (GLECB.TTF) normal normal 400 condensed>) = 10.25
+2023-03-22 19:22:52,962 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Rockwell' (ROCKB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,962 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial' (ARIALNBI.TTF) italic normal bold condensed>) = 7.8986363636363635
+2023-03-22 19:22:52,963 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tiger' (Tiger.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,963 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Old English Text MT' (OLDENGL.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,964 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Medium' (framd.ttf) normal normal medium normal>) = 10.145
+2023-03-22 19:22:52,964 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Cambria' (cambria.ttc) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,964 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Marlett' (marlett.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,965 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Agency FB' (AGENCYB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,965 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial' (arialbd.ttf) normal normal bold normal>) = 6.698636363636363
+2023-03-22 19:22:52,966 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft New Tai Lue' (ntailub.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,966 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tiger Expert' (Tiger Expert.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,967 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Leelawadee UI' (LeelUIsl.ttf) normal normal light normal>) = 10.24
+2023-03-22 19:22:52,967 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Candara' (Candaraz.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,967 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tw Cen MT Condensed Extra Bold' (TCCEB.TTF) normal normal bold condensed>) = 10.535
+2023-03-22 19:22:52,968 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tw Cen MT' (TCB_____.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,968 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_BI.TTF) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,969 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Sans Unicode' (l_10646.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,969 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Edwardian Script ITC' (ITCEDSCR.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,970 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Copperplate Gothic Bold' (COPRGTB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,970 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'KaiTi' (simkai.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,971 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Century Schoolbook' (CENSCBK.TTF) normal normal book normal>) = 10.05
+2023-03-22 19:22:52,971 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Eras Bold ITC' (ERASBD.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,971 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Consolas' (consola.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,972 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Sans Typewriter' (LTYPEB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,972 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'FZShuTi' (FZSTK.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,973 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calibri' (calibriz.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,973 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Constantia' (constan.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,974 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Book Antiqua' (ANTQUABI.TTF) italic normal book normal>) = 11.05
+2023-03-22 19:22:52,974 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Goudy Old Style' (GOUDOSB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,974 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Impact' (impact.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,975 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Elephant' (ELEPHNT.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,975 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Javanese Text' (javatext.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,976 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Juice ITC' (JUICE___.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,976 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Heavy' (FRAHVIT.TTF) italic normal heavy normal>) = 11.43
+2023-03-22 19:22:52,977 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Poor Richard' (POORICH.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,977 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Rockwell' (ROCKI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,977 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'LiSu' (SIMLI.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,978 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gill Sans MT' (GILB____.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,979 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Felix Titling' (FELIXTI.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,979 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Fax' (LFAX.TTF) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,980 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft Tai Le' (taile.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,980 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial Unicode MS' (ARIALUNI.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,981 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Century Schoolbook' (SCHLBKBI.TTF) italic normal book normal>) = 11.05
+2023-03-22 19:22:52,981 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Symbol' (symbol.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,982 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Mongolian Baiti' (monbaiti.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,982 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Kristen ITC' (ITCKRIST.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,982 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Candara' (Candara.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,983 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_CR.TTF) normal normal 400 condensed>) = 10.25
+2023-03-22 19:22:52,983 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Georgia' (georgiai.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,984 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'OCR A Extended' (OCRAEXT.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,984 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Californian FB' (CALIFB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,985 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Book Antiqua' (ANTQUAB.TTF) normal normal book normal>) = 10.05
+2023-03-22 19:22:52,985 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'MS Gothic' (msgothic.ttc) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,985 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Comic Sans MS' (comicz.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,986 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_CB.TTF) normal normal bold condensed>) = 10.535
+2023-03-22 19:22:52,986 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'MS Reference Specialty' (REFSPCL.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,987 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft JhengHei' (msjhbd.ttc) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,987 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STLiti' (STLITI.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,988 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Nirmala UI' (Nirmala.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,988 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tw Cen MT Condensed' (TCCB____.TTF) normal normal bold condensed>) = 10.535
+2023-03-22 19:22:52,988 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Haettenschweiler' (HATTEN.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,989 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Demi' (FRADM.TTF) normal normal demi normal>) = 10.24
+2023-03-22 19:22:52,989 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tw Cen MT Condensed' (TCCM____.TTF) normal normal 400 condensed>) = 10.25
+2023-03-22 19:22:52,990 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Rockwell' (ROCKBI.TTF) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,990 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Sans Typewriter' (LTYPEO.TTF) oblique normal 400 normal>) = 11.05
+2023-03-22 19:22:52,990 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Sans' (LSANS.TTF) normal normal regular normal>) = 10.05
+2023-03-22 19:22:52,991 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Berlin Sans FB' (BRLNSB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,991 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Bright' (LBRITEI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,992 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Times New Roman' (times.ttf) normal normal roman normal>) = 10.145
+2023-03-22 19:22:52,992 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Modern No. 20' (MOD20.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,993 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bradley Hand ITC' (BRADHITC.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,993 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Leelawadee UI' (LeelaUIb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,993 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft PhagsPa' (phagspab.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,994 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STKaiti' (STKAITI.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,995 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe Print' (segoepr.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,995 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Yu Gothic' (YuGothM.ttc) normal normal medium normal>) = 10.145
+2023-03-22 19:22:52,996 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe Print' (segoeprb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:52,996 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Book Antiqua' (BKANT.TTF) normal normal book normal>) = 10.05
+2023-03-22 19:22:52,997 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'MingLiU-ExtB' (mingliub.ttc) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,997 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Georgia' (georgia.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:52,998 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Sans' (LSANSDI.TTF) italic normal demibold normal>) = 11.24
+2023-03-22 19:22:52,998 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Rockwell Condensed' (ROCCB___.TTF) normal normal bold condensed>) = 10.535
+2023-03-22 19:22:52,999 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Symbol' (eucsymi.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:52,999 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Trebuchet MS' (trebucbi.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:52,999 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Symbol Tiger Expert' (Symbol Tiger Expert.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,000 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft JhengHei' (msjh.ttc) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,000 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (seguisb.ttf) normal normal semibold normal>) = 10.24
+2023-03-22 19:22:53,001 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Matura MT Script Capitals' (MATURASC.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,001 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (segoeuil.ttf) normal normal light normal>) = 10.24
+2023-03-22 19:22:53,002 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Georgia' (georgiab.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,002 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Niagara Solid' (NIAGSOL.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,002 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Trebuchet MS' (trebuc.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,003 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Franklin Gothic Medium Cond' (FRAMDCN.TTF) normal normal medium condensed>) = 10.344999999999999
+2023-03-22 19:22:53,003 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Myanmar Text' (mmrtext.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,004 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (seguisli.ttf) italic normal light normal>) = 11.24
+2023-03-22 19:22:53,004 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (seguibli.ttf) italic normal black normal>) = 11.525
+2023-03-22 19:22:53,005 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Trebuchet MS' (trebucit.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,005 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Wingdings 2' (WINGDNG2.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,005 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gabriola' (Gabriola.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,006 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft PhagsPa' (phagspa.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,006 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Candara' (Candarai.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,007 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Perpetua' (PERB____.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,007 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Fax' (LFAXI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,007 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Verdana' (verdanai.ttf) italic normal 400 normal>) = 4.6863636363636365
+2023-03-22 19:22:53,008 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calisto MT' (CALISTBI.TTF) italic normal bold normal>) = 11.335
+2023-03-22 19:22:53,008 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial' (arialbi.ttf) italic normal bold normal>) = 7.698636363636363
+2023-03-22 19:22:53,009 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Corbel' (corbel.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,009 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Berlin Sans FB Demi' (BRLNSDB.TTF) normal normal demi normal>) = 10.24
+2023-03-22 19:22:53,010 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Sans Typewriter' (LTYPEBO.TTF) oblique normal bold normal>) = 11.335
+2023-03-22 19:22:53,010 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tw Cen MT' (TCBI____.TTF) italic normal bold normal>) = 11.335
+2023-03-22 19:22:53,011 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gill Sans Ultra Bold Condensed' (GILLUBCD.TTF) normal normal bold condensed>) = 10.535
+2023-03-22 19:22:53,011 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calisto MT' (CALIST.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,012 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bookman Old Style' (BOOKOSB.TTF) normal normal book normal>) = 10.05
+2023-03-22 19:22:53,012 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial' (arial.ttf) normal normal 400 normal>) = 6.413636363636363
+2023-03-22 19:22:53,013 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bookman Old Style' (BOOKOS.TTF) normal normal book normal>) = 10.05
+2023-03-22 19:22:53,013 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Californian FB' (CALIFR.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,014 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calisto MT' (CALISTI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,014 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial' (ariali.ttf) italic normal 400 normal>) = 7.413636363636363
+2023-03-22 19:22:53,015 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid' (euclidb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,015 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft Sans Serif' (micross.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,016 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STXingkai' (STXINGKA.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,016 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Mistral' (MISTRAL.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,017 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STZhongsong' (STZHONGS.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,017 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Times New Roman' (timesi.ttf) italic normal roman normal>) = 11.145
+2023-03-22 19:22:53,017 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tahoma' (tahoma.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,018 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Goudy Stout' (GOUDYSTO.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,018 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Harrington' (HARNGTON.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,019 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Fences' (fences.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,019 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft Tai Le' (taileb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,019 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft Uighur' (MSUIGHUB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,020 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (segoeui.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,020 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Garamond' (GARA.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,021 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Perpetua Titling MT' (PERTIBD.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,021 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial' (ARIALNI.TTF) italic normal 400 condensed>) = 7.613636363636363
+2023-03-22 19:22:53,022 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gill Sans MT' (GILBI___.TTF) italic normal bold normal>) = 11.335
+2023-03-22 19:22:53,022 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Wide Latin' (LATINWD.TTF) normal normal 400 expanded>) = 10.25
+2023-03-22 19:22:53,022 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Math One' (eumat1b.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,023 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Maiandra GD' (MAIAN.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,023 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (seguibl.ttf) normal normal black normal>) = 10.525
+2023-03-22 19:22:53,024 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Elephant' (ELEPHNTI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,024 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Myanmar Text' (mmrtextb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,025 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Engravers MT' (ENGR.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,025 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft YaHei' (msyhbd.ttc) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,026 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calibri' (calibrii.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,026 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Century' (CENTURY.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,027 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Vladimir Script' (VLADIMIR.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,027 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Century Gothic' (GOTHICI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,028 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI Historic' (seguihis.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,028 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Showcard Gothic' (SHOWG.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,029 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Wingdings' (wingding.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,029 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial' (ARIALNB.TTF) normal normal bold condensed>) = 6.8986363636363635
+2023-03-22 19:22:53,030 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'FangSong' (simfang.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,030 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'DengXian' (Dengl.ttf) normal normal light normal>) = 10.24
+2023-03-22 19:22:53,030 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_B.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,031 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Viner Hand ITC' (VINERITC.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,031 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Sans' (LSANSI.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,032 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gill Sans Ultra Bold' (GILSANUB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,032 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Symbol' (eucsymb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,033 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Arial' (ARIALN.TTF) normal normal 400 condensed>) = 6.613636363636363
+2023-03-22 19:22:53,033 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Math Two' (eumat2.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,033 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Palace Script MT' (PALSCRI.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,034 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Malgun Gothic' (malgunsl.ttf) normal normal light normal>) = 10.24
+2023-03-22 19:22:53,034 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Malgun Gothic' (malgunbd.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,035 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Palatino Linotype' (palab.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,035 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STSong' (STSONG.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,035 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Rockwell Condensed' (ROCC____.TTF) normal normal 400 condensed>) = 10.25
+2023-03-22 19:22:53,036 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Constantia' (constani.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,036 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid' (euclidi.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,037 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (seguili.ttf) italic normal light normal>) = 11.24
+2023-03-22 19:22:53,037 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Gigi' (GIGI.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,038 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Malgun Gothic' (malgun.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,038 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'MS Mincho' (MSMINCHO.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,038 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Math One' (eumat1.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,039 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calisto MT' (CALISTB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,039 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'MT Extra Tiger' (Mt Extra Tiger.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,040 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe MDL2 Assets' (segmdl2.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,041 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Nirmala UI' (NirmalaS.ttf) normal normal light normal>) = 10.24
+2023-03-22 19:22:53,041 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'STCaiyun' (STCAIYUN.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,041 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Perpetua Titling MT' (PERTILI.TTF) normal normal light normal>) = 10.24
+2023-03-22 19:22:53,042 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Kunstler Script' (KUNSTLER.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,057 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Math Two' (eumat2b.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,058 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft Himalaya' (himalaya.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,058 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Courier New' (couri.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,059 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Britannic Bold' (BRITANIC.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,059 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Calibri' (calibri.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,059 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Eras Medium ITC' (ERASMD.TTF) normal normal medium normal>) = 10.145
+2023-03-22 19:22:53,060 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Palatino Linotype' (pala.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,060 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Leelawadee' (LEELAWAD.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,061 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Fax' (LFAXDI.TTF) italic normal demibold normal>) = 11.24
+2023-03-22 19:22:53,061 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe Script' (segoescb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,061 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Corbel' (corbelz.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:53,062 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (segoeuii.ttf) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,062 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Euclid Symbol' (eucsym.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,062 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Courier New' (courbi.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:53,063 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Garamond' (GARAIT.TTF) italic normal 400 normal>) = 11.05
+2023-03-22 19:22:53,064 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Yu Gothic' (YuGothR.ttc) normal normal regular normal>) = 10.05
+2023-03-22 19:22:53,064 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_CBI.TTF) italic normal bold condensed>) = 11.535
+2023-03-22 19:22:53,064 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Courier New' (cour.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,065 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Corbel' (corbelb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,065 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Bodoni MT' (BOD_BLAR.TTF) normal normal black normal>) = 10.525
+2023-03-22 19:22:53,066 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Freestyle Script' (FREESCPT.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,066 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Leelawadee' (LEELAWDB.TTF) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,066 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Bright' (LBRITED.TTF) normal normal demibold normal>) = 10.24
+2023-03-22 19:22:53,067 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Leelawadee UI' (LeelawUI.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,067 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Segoe UI' (segoeuiz.ttf) italic normal bold normal>) = 11.335
+2023-03-22 19:22:53,068 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Comic Sans MS' (comicbd.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,068 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Constantia' (constanb.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,068 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Tahoma' (tahomabd.ttf) normal normal bold normal>) = 10.335
+2023-03-22 19:22:53,069 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Perpetua' (PER_____.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,069 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'SimHei' (simhei.ttf) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,070 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Microsoft YaHei' (msyhl.ttc) normal normal light normal>) = 10.24
+2023-03-22 19:22:53,070 - matplotlib.font_manager - DEBUG -findfont: score(<Font 'Lucida Bright' (LBRITE.TTF) normal normal 400 normal>) = 10.05
+2023-03-22 19:22:53,071 - matplotlib.font_manager - DEBUG -findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\Administrator\\anaconda3\\envs\\python36\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2023-03-22 19:23:05,774 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_428:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,776 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_427:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,778 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_426:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,779 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_425:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,781 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_424:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,782 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_423:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,783 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_422:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,784 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_421:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,785 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_420:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,786 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_419:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,787 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_418:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,788 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_417:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,789 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_416:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,791 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_415:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,792 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_414:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,793 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_413:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,794 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_412:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,795 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_411:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,796 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_410:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,798 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_409:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:23:05,799 - tensorflow - ERROR -==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_408:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\optimizers.py", line 126, in set_weights
+    param_values = K.batch_get_value(params)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\keras\backend\tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "C:\Users\Administrator\anaconda3\envs\python36\lib\site-packages\tensorflow_core\python\util\tf_should_use.py", line 198, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+2023-03-22 19:24:47,221 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:24:47,222 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:24:47,315 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:24:47,316 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:31:54,075 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:31:54,075 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:31:54,162 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:31:54,163 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:37:41,081 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:37:41,082 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:37:41,176 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:37:41,177 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:47:59,240 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:47:59,240 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:47:59,332 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:47:59,333 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:48:39,010 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:48:39,010 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:48:39,097 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:48:39,097 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:49:25,407 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:49:25,408 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:49:25,505 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:49:25,506 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:52:45,126 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:52:45,126 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:52:45,215 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:52:45,216 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:54:03,143 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:54:03,144 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:54:03,243 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:54:03,244 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:54:23,337 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:54:23,338 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:54:23,432 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 19:54:23,433 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:03:32,170 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:03:32,170 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:03:32,264 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:03:32,265 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:03:53,578 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:03:53,579 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:03:53,674 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:03:53,675 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:05:20,053 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:05:20,054 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:05:20,144 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:05:20,145 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:06:20,912 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:06:20,913 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:06:21,006 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:06:21,007 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:11:44,422 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:11:44,423 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:11:44,515 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:11:44,517 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:19:27,455 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:19:27,456 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:19:27,550 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:19:27,551 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:24:30,408 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:24:30,409 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:24:30,496 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:24:30,497 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:35:47,883 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:35:47,884 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:35:47,970 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:35:47,971 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:35:51,988 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:35:51,989 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:35:52,080 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:35:52,081 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:44:13,943 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:44:13,944 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:44:14,041 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:44:14,042 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:49:13,890 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:49:13,891 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:49:13,983 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:49:13,985 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:58:44,983 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:58:44,984 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:58:45,071 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 20:58:45,072 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 21:08:58,916 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 21:08:58,917 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 21:08:59,006 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 21:08:59,007 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 22:33:22,073 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 22:33:22,074 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 22:33:22,166 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-22 22:33:22,168 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-23 10:01:19,894 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-23 10:01:19,897 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-23 10:01:20,005 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+2023-03-23 10:01:20,007 - matplotlib.backends.backend_ps - WARNING -The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
