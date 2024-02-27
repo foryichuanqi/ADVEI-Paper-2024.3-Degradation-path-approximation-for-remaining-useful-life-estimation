@@ -30,18 +30,17 @@ The website of the paper：https://www.sciencedirect.com/science/article/pii/S14
 (2) Please cite this paper and the original source of the dataset when using the code for academic purposes.
 
 GB/T 7714: 
-
+Fan L, Lin W, Chen X, et al. Degradation path approximation for remaining useful life estimation[J]. Advanced Engineering Informatics, 2024, 60: 102422.
 
 BibTex:
-
-@article{FAN2024102422,
-title = {Degradation path approximation for remaining useful life estimation},
-journal = {Advanced Engineering Informatics},
-volume = {60},
-pages = {102422},
-year = {2024},
-issn = {1474-0346},
-doi = {https://doi.org/10.1016/j.aei.2024.102422}
+@article{fan2024degradation,
+  title={Degradation path approximation for remaining useful life estimation},
+  author={Fan, Linchuan and Lin, Wenyi and Chen, Xiaolong and Yin, Hongpeng and Chai, Yi},
+  journal={Advanced Engineering Informatics},
+  volume={60},
+  pages={102422},
+  year={2024},
+  publisher={Elsevier}
 }
 
 
